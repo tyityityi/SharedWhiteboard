@@ -1,9 +1,10 @@
 # SharedWhiteboard  
-A distributed whiteboard system.
+A distributed whiteboard system.  
 
 # Envirorment  
 JDK 1.8  
-
+Apache Maven 3.6.3  
+  
 # How to run?  
   
 Step 1:  
